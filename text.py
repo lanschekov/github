@@ -1,3 +1,5 @@
 # author - Egor!
 print('my modify')
-print('my first program')
+print('hi')
+print('my maybe second first program')
+# 2024 - me
