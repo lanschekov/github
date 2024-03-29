@@ -1,5 +1,5 @@
 # author - Egor!
-print('my modify')
+print('my new modify')
 print('hi')
 print('my maybe second first program')
 print('на другой ветке**')
